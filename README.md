@@ -1,16 +1,58 @@
-# movies_app
+🎬 Movies App
 
-A new Flutter project.
+A Flutter-based movie application developed as a team project at Route Academy, focusing on clean code, scalable architecture, and state management.
 
-## Getting Started
+📱 About the Project
 
-This project is a starting point for a Flutter application.
+Movies App is a mobile application built with Flutter and Dart. The project follows Clean Architecture principles and uses BLoC for state management to maintain a structured and maintainable codebase.
 
-A few resources to get you started if this is your first Flutter project:
+✨ Key Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* User authentication
+* Onboarding screens
+* Splash screen
+* Login and registration interfaces
+* Forgot password flow
+* API integration
+* Responsive user interface
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Technologies Used
+
+* Flutter & Dart — Cross-platform mobile development
+* Clean Architecture — Separation of application layers
+* BLoC — State management
+* Dio — HTTP requests and API communication
+* GetIt — Dependency injection
+
+🏗️ Architecture
+
+The project uses Clean Architecture principles to separate responsibilities and improve maintainability, testability, and scalability.
+
+👨‍💻 My Contribution
+
+As a member of the development team, I contributed to the implementation of key application screens and authentication features, including:
+
+* Splash and onboarding screens
+* Login and authentication interfaces
+* Forgot password and registration flows
+* API integration and BLoC-based state management for authentication
+
+🚀 Getting Started
+
+1. Clone the repository.
+2. Install the project dependencies.
+3. Configure any required API settings.
+4. Run the application using Flutter.
+
+git clone https://github.com/Mahmoud-abd-Elgawad/movies_app_flutter.git
+cd movies_app_flutter
+flutter pub get
+flutter run
+
+🤝 Project Context
+
+This project was developed collaboratively as part of the Route Academy learning experience. Contributions from other team members are acknowledged, and the sections above describe my individual contributions.
+
+⸻
+
+Built with Flutter 💙
