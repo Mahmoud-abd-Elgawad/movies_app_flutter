@@ -1,58 +1,88 @@
-🎬 Movies App
+🎬 Movies App - Flutter
 
-A Flutter-based movie application developed as a team project at Route Academy, focusing on clean code, scalable architecture, and state management.
+A Flutter movie application built as part of a collaborative team project at Route Academy.
 
-📱 About the Project
+📖 About the Project
 
-Movies App is a mobile application built with Flutter and Dart. The project follows Clean Architecture principles and uses BLoC for state management to maintain a structured and maintainable codebase.
+This application allows users to explore movies through a clean and user-friendly interface. The project was developed using Flutter and Dart, following Clean Architecture principles and modern state management practices.
 
-✨ Key Features
+✨ Features
 
-* User authentication
-* Onboarding screens
-* Splash screen
-* Login and registration interfaces
-* Forgot password flow
-* API integration
-* Responsive user interface
+* Splash Screen
+* Onboarding Screens
+* User Authentication
+* Login Screen
+* Create Account Screen
+* Forgot Password Screen
+* API Integration
+* Responsive UI
+* Clean Architecture
+* State Management using BLoC
 
 🛠️ Technologies Used
 
-* Flutter & Dart — Cross-platform mobile development
-* Clean Architecture — Separation of application layers
-* BLoC — State management
-* Dio — HTTP requests and API communication
-* GetIt — Dependency injection
+* Flutter
+* Dart
+* BLoC
+* Dio
+* GetIt
+* Clean Architecture
+* REST API
 
-🏗️ Architecture
+📱 Screenshots
 
-The project uses Clean Architecture principles to separate responsibilities and improve maintainability, testability, and scalability.
+1. Splash Screen
+   Splash_Screen.png
+   
+3. Onboarding Screens
+   Onboarding_1.png
+   Onboarding_2.png
+   Onboarding_3.png
+   Onboarding_4.png
+   Onboarding_5.png
+   
+5. Authentication Screens
 
+Login Screen
+login_screen.png
+
+Create Account Screen
+Register_screen.png
+
+Forgot Password Screen
+Forget_password.png
 👨‍💻 My Contribution
 
-As a member of the development team, I contributed to the implementation of key application screens and authentication features, including:
+As a member of the project team, I worked on:
 
-* Splash and onboarding screens
-* Login and authentication interfaces
-* Forgot password and registration flows
-* API integration and BLoC-based state management for authentication
+* Splash Screen UI
+* Onboarding Screens UI
+* Authentication UI
+* Create Account and Forgot Password screens
+* Authentication BLoC and API integration
 
 🚀 Getting Started
 
-1. Clone the repository.
-2. Install the project dependencies.
-3. Configure any required API settings.
-4. Run the application using Flutter.
+1. Clone the repository:
 
 git clone https://github.com/Mahmoud-abd-Elgawad/movies_app_flutter.git
+
+2. Navigate to the project directory:
+
 cd movies_app_flutter
+
+3. Install dependencies:
+
 flutter pub get
+
+4. Run the application:
+
 flutter run
 
-🤝 Project Context
+🤝 Team Project
 
-This project was developed collaboratively as part of the Route Academy learning experience. Contributions from other team members are acknowledged, and the sections above describe my individual contributions.
+This project was developed collaboratively as part of the Flutter training program at Route Academy.
 
 ⸻
 
-Built with Flutter 💙
+Developed with Flutter 💙
