@@ -31,26 +31,17 @@ This application allows users to explore movies through a clean and user-friendl
 
 📱 Screenshots
 
-1. Splash Screen
-   [Splash_Screen.png]
+1. [Splash Screen](Splash_Screen.png)
    
-3. Onboarding Screens
-   [Onboarding_1.png]
-   [Onboarding_2.png]
-   [Onboarding_3.png]
-   [Onboarding_4.png]
-   [Onboarding_5.png]
+3. [Onboarding Screens](Onboarding_1.png,Onboarding_2.png,Onboarding_3.png,Onboarding_4.png,Onboarding_5.png)
    
 5. Authentication Screens
 
-Login Screen
-[login_screen.png]
+[Login Screen](login_screen.png)
 
-Create Account Screen
-[Register_screen.png]
+[Create Account Screen](Register_screen.png)
 
-Forgot Password Screen
-[Forget_password.png]
+[Forgot Password Screen](Forget_password.png)
 👨‍💻 My Contribution
 
 As a member of the project team, I worked on:
